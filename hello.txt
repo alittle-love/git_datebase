@@ -14,5 +14,5 @@ hello atguigu! HELLO GIT!
 hello atguigu! HELLO GIT!
 hello atguigu! HELLO GIT!
 hello atguigu! HELLO GIT!
-hello atguigu! HELLO GIT!
+hello atguigu! HELLO GIT! hot_fix test
 hello atguigu! HELLO GIT!
